@@ -46,15 +46,15 @@ include ('includes/header.php')
   </div>
 </section>
 <!-- intro section --> 
-<!-- package section --> 
+<!-- package section -->
+<!-+====Pricing Section===+->
 <section id="pricing5" data-section="pricing-5" class="data-section">
     <div class="container">
-          <div class="section-header">
-                <h2 class="wow fadeInDown animated">Pricing</h2>
-                <p class="wow fadeInDown animated"> At Eden Dental Clinic we offer a wide range of dental services that are customized to exceed the expectations of every client.</p>
-            </div>
-         
-            <div class="row">
+        <div class="section-header">
+            <h2 class="wow fadeInDown animated">Pricing</h2>
+            <p class="wow fadeInDown animated"> At Eden Dental Clinic we offer a wide range of dental services that are customized to exceed the expectations of every client.</p>
+        </div>
+        <div class="row">
             <div class="col-md-3">
                 <div class="table">
                     <h3 class="editContent">Dental Consultation</h3>
@@ -66,17 +66,13 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-
             </div>
-         
-         
-         <div class="col-md-3">
-         	<div class="col-md-3"></div>
+            <div class="col-md-3">
+                <div class="col-md-2"></div>
                 <div class="table">
                     <h3 class="editContent">Tooth Extraction</h3>
                     <h2 class="editContent">Ksh. 00</h2>
@@ -87,16 +83,12 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-                
-
             </div>
-         
-         <div class="col-md-3">
+            <div class="col-md-3">
                 <div class="table">
                     <h3 class="editContent">Tooth Filling</h3>
                     <h2 class="editContent">Ksh. 00</h2>
@@ -107,17 +99,15 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
 
             </div>
-         
-         <div class="col-md-3">
+            <div class="col-md-3">
                 <div class="table">
-                    <h3 class="editContent">Root Canal Treatment, Operculectomy</h3>
+                    <h3 class="editContent">Root Canal, Operculectomy</h3>
                     <h2 class="editContent">Ksh. 00</h2>
                     <p class="editContent">Per Month</p>
                     <ul class="table-content">
@@ -126,15 +116,14 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
 
             </div>
-         </div>
-            // <div class="row">
+        </div>
+        <div class="row">
             <div class="col-md-3">
                 <div class="table">
                     <h3 class="editContent">Third Molar Surgery,</h3>
@@ -146,17 +135,13 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-
             </div>
-         
-         
-         <div class="col-md-3">
-         	<div class="col-md-3"></div>
+            <div class="col-md-3">
+                <div class="col-md-3"></div>
                 <div class="table">
                     <h3 class="editContent">Teeth Whitening</h3>
                     <h2 class="editContent">Ksh. 00</h2>
@@ -167,16 +152,12 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-                
-
             </div>
-         
-         <div class="col-md-3">
+            <div class="col-md-3">
                 <div class="table">
                     <h3 class="editContent">Teeth Alignment(Braces), Uvulectomy</h3>
                     <h2 class="editContent">Ksh. 00</h2>
@@ -187,15 +168,12 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-
             </div>
-         
-         <div class="col-md-3">
+            <div class="col-md-3">
                 <div class="table">
                     <h3 class="editContent">Full Mouth Scaling</h3>
                     <h2 class="editContent">Ksh. 000</h2>
@@ -206,18 +184,15 @@ include ('includes/header.php')
                         <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
                         <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
                     </ul>
-
                     <div class="text-center text-uppercase">
                         <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
                     </div>
                 </div>
-
             </div>
-         </div>
-         
-         </div>
-
+        </div>
+    </div>
 </section>
+<!-+====End of Pricing Section===+->
 
 
 <?php

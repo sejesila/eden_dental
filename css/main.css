@@ -317,17 +317,23 @@ ul li {
 	transform: translateY(0) rotate(-45deg);
 }
 .site-info{
-	color: #383838;
-	background: #ffffff;
-	border-radius: 20px;
-	margin-top: 34px;
-	padding: 15px 0;
+	
+color: #383838;
+	
+background: #ffffff;
+	
+border-radius: 20px;
+	
+margin-top: 34px;
+	
+padding: 15px 0;
 }
 .site-info a{
 	color: #03a9f4;
 }
 .phoneInfo{
-	display: inline-block;
+	
+display: inline-block;
 }
 .timeInfo{
 	
@@ -449,8 +455,8 @@ padding-bottom: 30px;
 	background: #000;
 }
 .work img {
-	width: 100%;
-	height: 100%;
+	width: 300px;
+	height: 300px;
 	opacity: .6;
 }
 .work .overlay {
